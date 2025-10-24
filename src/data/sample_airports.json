@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "origin_code": "ATL",
+      "destination_code": "LAX",
+      "origin_city": "Atlanta",
+      "destination_city": "Los Angeles",
+      "flight_time": 240,
+      "delay_probability": 0.15,
+      "avg_delay": 30
+    },
+    {
+      "origin_code": "LAX",
+      "destination_code": "SFO",
+      "origin_city": "Los Angeles",
+      "destination_city": "San Francisco",
+      "flight_time": 90,
+      "delay_probability": 0.10,
+      "avg_delay": 20
+    },
+    {
+      "origin_code": "SFO",
+      "destination_code": "SEA",
+      "origin_city": "San Francisco",
+      "destination_city": "Seattle",
+      "flight_time": 120,
+      "delay_probability": 0.12,
+      "avg_delay": 25
+    },
+    {
+      "origin_code": "SEA",
+      "destination_code": "DEN",
+      "origin_city": "Seattle",
+      "destination_city": "Denver",
+      "flight_time": 150,
+      "delay_probability": 0.18,
+      "avg_delay": 35
+    },
+    {
+      "origin_code": "DEN",
+      "destination_code": "ORD",
+      "origin_city": "Denver",
+      "destination_city": "Chicago",
+      "flight_time": 180,
+      "delay_probability": 0.20,
+      "avg_delay": 40
+    },
+    {
+      "origin_code": "ORD",
+      "destination_code": "JFK",
+      "origin_city": "Chicago",
+      "destination_city": "New York",
+      "flight_time": 120,
+      "delay_probability": 0.15,
+      "avg_delay": 30
+    },
+    {
+      "origin_code": "JFK",
+      "destination_code": "MIA",
+      "origin_city": "New York",
+      "destination_city": "Miami",
+      "flight_time": 180,
+      "delay_probability": 0.12,
+      "avg_delay": 25
+    },
+    {
+      "origin_code": "MIA",
+      "destination_code": "ATL",
+      "origin_city": "Miami",
+      "destination_city": "Atlanta",
+      "flight_time": 90,
+      "delay_probability": 0.10,
+      "avg_delay": 20
+    }
+  ]
+}
